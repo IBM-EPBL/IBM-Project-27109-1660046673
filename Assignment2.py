@@ -1,5 +1,5 @@
 IBM-Project-27109-1660046673
-TITLE:SmartFarmer - IoT Enabled Smart Farming Applicatio
+TITLE:SmartFarmer - IoT Enabled Smart Farming Application
 
 Akash B-917719D008
 Krishna Prasanna V G-917719D041
